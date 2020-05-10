@@ -26,12 +26,19 @@ sh install or ./install
 #Description
 
  title           :IP-Tracer
+ 
  description     :👊 ʍ4ղíƒҽՏԵ0 ϲվҍҽɾ ՏҽϲմɾíԵվ Եҽɑʍ™💪
+ 
  author          :rainboy1 | erfan4lx | Vampire4lx
+ 
  date            :2020 May
+ 
  version         :1.1.0
+ 
  usage           :cd IP-Tracer
+ 
  channel          :t.me/hack4lxCombo
+ 
 
 ✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
